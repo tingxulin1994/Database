@@ -1,2 +1,6 @@
 # 
-the example for practicing tkinter 
+the note for database : 
+  - MySQL 
+  - Mongo
+
+
